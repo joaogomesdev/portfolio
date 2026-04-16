@@ -7,7 +7,7 @@ Site de portfólio pessoal desenvolvido com HTML, CSS e JavaScript puro, apresen
 ## 🔗 Acesse o site
 
 > _Adicione o link do seu GitHub Pages aqui após publicar_  
-> Exemplo: `https://joaogomesdev.github.io/portfolio`
+> Exemplo: https://joaogomesdev.github.io/portfolio
 
 ---
 
